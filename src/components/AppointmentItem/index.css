@@ -1,0 +1,26 @@
+.appointment-list-item {
+  padding: 20px;
+  border: 1px solid #b5b7c4;
+  width: 250px;
+  border-radius: 10px;
+  margin-right: 20px;
+  margin-top: 20px;
+}
+.posted-date {
+  color: #b5b7c4;
+}
+.appointment-name {
+  color: black;
+  font-size: 20px;
+  padding-bottom: 10px;
+  font-weight: 500;
+}
+.star {
+  background-color: transparent;
+  border: none;
+}
+.star-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
